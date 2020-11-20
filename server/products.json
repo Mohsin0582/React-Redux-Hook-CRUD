@@ -1,0 +1,44 @@
+
+
+[{
+    "name": "slim shirt",
+    "category": "shirts",
+    "image": "/images/d1.jpg",
+    "price": "60",
+    "brand": "Nike",
+    "rating": "4.5",
+    "numReviews": "10"
+ },{
+    "name": "chino",
+    "category": "pants",
+    "image": "/images/d1.jpg",
+    "price": "70",
+    "brand": "Equator",
+    "rating": "4.5",
+    "numReviews": "20"
+},{
+    "name": "dress pants",
+    "category": "pants",
+    "image": "/images/d1.jpg",
+    "price": "90",
+    "brand": "Diners",
+    "rating": "4.5",
+    "numReviews": "15"
+},{
+    "name": "narrow",
+    "category": "pants",
+    "image": "/images/d1.jpg",
+    "price": "100",
+    "brand": "charcoal",
+    "rating": "4.5",
+    "numReviews": "15"
+},{
+    "name": "dress shirt",
+    "category": "shirts",
+    "image": "/images/d1.jpg",
+    "price": "90",
+    "brand": "Tie & Shirt",
+    "rating": "5",
+    "numReviews": "50"
+}]
+
